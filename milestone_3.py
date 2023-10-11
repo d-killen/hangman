@@ -10,7 +10,7 @@ def ask_for_input():
             print("Invalid letter. Please, enter a single alphabetical character.")
 
     check_guess(guess) #checks if the guess is in the word
-
+    
     return
 
 #this function checks whether the users guess is in the chosen word

@@ -15,17 +15,19 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
 
 Learning achieved through this project includes:
-- In Python 
+- Experience in Python with: 
     - functions
     - if/else statements
     - while loops 
     - user inputs
+    - class definitions
+    - class attributes
 - README creation and editing
 - In GitHub
-    - Cloning an online repo
+    - Cloning an online repository
     - Making local changes
-    - Committing and pushing changes back to the cloud repo
-    - Storing PAT
+    - Committing and pushing changes back to the cloud repository
+    - Storing a PAT
 
 ## Installation Instructions
 
@@ -43,6 +45,7 @@ It will prompt the user to make a guess and then inform the user whether or not 
     - README.md
     - milestone_2.py
     - milestone_3.py
+    - milestone_4.py
 
 ## License Information
 
