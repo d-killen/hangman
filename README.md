@@ -25,6 +25,7 @@ Learning achieved through this project includes:
     - Cloning an online repo
     - Making local changes
     - Committing and pushing changes back to the cloud repo
+    - Storing PAT
 
 ## Installation Instructions
 
