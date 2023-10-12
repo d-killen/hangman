@@ -23,7 +23,7 @@ Learning achieved through this project includes:
     - class definitions
     - class attributes
 - README creation and editing
-- Expereince with git & GitHub:
+- Experience with git & GitHub:
     - Cloning an online repository
     - Making local changes
     - Committing and pushing changes back to the cloud repository
